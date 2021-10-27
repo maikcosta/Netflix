@@ -80,7 +80,7 @@ header nav a:hover{
     transform: translate(-50%,-50%) scale(1);
 }
 .modal-header{
-    padding: 10px 15px;
+    padding: 20px 15px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -90,6 +90,10 @@ header nav a:hover{
 .modal-header .title{
     font-size: 1.25rem;
     font-weight: bold;
+    padding: 0px ;
+    max-width: 10px;
+    height: 10px;
+    justify-content: center;
 }
 
 .modal-header .close-button{
@@ -99,12 +103,30 @@ header nav a:hover{
     background: none;
     font-size: 1.25rem;
     font-weight: bold;
+    color: white;
 }
 
 .modal-body{
     padding: 10px 15px;
+
+}
+.modal-body .info{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
 }
 
+.modal-body .botoes-info{
+    border: none;
+    background: rgba(0,0,0,.50);
+}
+
+
+.modal-body .relevancia{
+    color: green;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
 #overlay{
     position: fixed;
     opacity: 0;
