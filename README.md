@@ -2,7 +2,7 @@
 
 Clone da página da NETFLIX
 
-![Netflix](/preview.jpg)
+![Netflix](/preview.JPG)
 
 ### LINGUAGENS
 
