@@ -1,8 +1,10 @@
-### CLONE NETFLIX
+# CLONE NETFLIX
 
 Clone da página da NETFLIX
 
-# LINGUAGENS
+![Netflix](/preview.jpg)
+
+### LINGUAGENS
 
 - HTML
 - CSS
