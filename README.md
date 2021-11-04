@@ -1,0 +1,10 @@
+### CLONE NETFLIX
+
+Clone da página da NETFLIX
+
+# LINGUAGENS
+
+- HTML
+- CSS
+- JAVASCRIPT
+- JQUERY

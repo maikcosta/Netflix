@@ -116,14 +116,31 @@ header nav a:hover{
     align-items: center;
 }
 
-.modal-body .botoes-info{
+.modal-body .botoes-info,
+.modal-body .a{
     border: none;
-    background: rgba(0,0,0,.50);
+    background-color: black;
+    color: white;
 }
 
 
 .modal-body .relevancia{
     color: green;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+.modal-body .ano{
+    color:white;
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.modal-body .classificacao{
+    border: 15px solid green;
+    background: green;
+    border-radius: 0.25rem;
+    color:white;
     font-size: 1.25rem;
     font-weight: bold;
 }
